@@ -4,7 +4,7 @@ import { defineConfig } from "vite";
 
 export default defineConfig({
   base: "/eCommerce-Hashtag/",
-  plugins: [tailwindcss()],
+  plugins: [],
   resolve: {
     /*something*/
   },
